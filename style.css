@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  font-family: "Outfit";
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(214, 226, 240);
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+article {
+  padding: 16px;
+  width: 300px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  border-radius: 16px;
+}
+
+img {
+  width: 270px;
+  border-radius: 16px;
+}
+
+h3 {
+  padding: 0px 12px 0px;
+  color: rgb(31, 50, 81) 
+}
+
+p {
+  padding: 0px 10px 0px;
+  font-size: 15px;
+  color: rgb(123, 135, 157)
+}
